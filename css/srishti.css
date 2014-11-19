@@ -68,3 +68,39 @@ img {
 .copyright {
 	text-align: center;
 }
+
+#mynavi-1 {
+    height: 90px;
+    margin-bottom: 1px;
+}
+
+#mynavi-2 {
+    height: inherit;
+}
+
+#mynavi-3 {
+    height: inherit;
+}
+
+#mynavi-4 {
+    height: inherit;
+}
+
+#mynavi-4 {
+    height: 90px;
+}
+
+#mybrandlogo {
+    height: 100%;
+}
+
+.active.navheight {
+    height: 90px;
+    line-height: 8em;
+}
+
+.navheight {
+    height: 90px;
+    align-content: center;
+    line-height: 8em;
+}
