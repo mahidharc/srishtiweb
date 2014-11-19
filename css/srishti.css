@@ -71,7 +71,7 @@ img {
 
 #mynavi-1 {
     height: 90px;
-    margin-bottom: 1px;
+    margin-bottom: 0px;
 }
 
 #mynavi-2 {
@@ -97,10 +97,16 @@ img {
 .active.navheight {
     height: 90px;
     line-height: 8em;
+    text-decoration: bold;
 }
 
 .navheight {
     height: 90px;
     align-content: center;
     line-height: 8em;
+    text-decoration: bold;
+}
+
+#bodytopmargin {
+    margin-top: 91px;
 }
