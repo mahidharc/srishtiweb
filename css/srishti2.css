@@ -1,6 +1,6 @@
 html, body {
 	height: 100%;
-	background-color: #000;
+	background-color: #fff;
 }
 
 .col-md-5ths {
@@ -105,7 +105,7 @@ img {
 }
 
 #testtext {
-	color: #fff;
+	color: #000;
 }
 
 .mydiv {
@@ -114,6 +114,7 @@ img {
 	width: -webkit-max-content;
 }
 
-.mycontainer {
-	margin-left: 2%;
+#mycontainer {
+	padding-left: 0px;
+	padding-right: 0px;
 }
