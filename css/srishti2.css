@@ -72,7 +72,9 @@ img {
 
 #mynavi-1 {
 	height: 90px;
-	margin-bottom: 0px;
+	margin-top: 20px;
+
+	margin-bottom: 20px;
 }
 
 #mynavi-2 {
@@ -83,25 +85,20 @@ img {
 	height: inherit;
 }
 
-.mybrandlogo {
-	height: 60px;
-	width: 100%;
-}
-
 #mynavi-4b {
 	margin-top: 3%;
 }
 
-#mybrandlogo {
-	height: 100%;
-}
-
-.navheight {
-	margin-left: 40%;
+#mybrandlogo1 {
+	height: 120px;
+    width: auto;
+    margin-top: -45px;
+    margin-left: 75px;
+    margin-right: 25px;
 }
 
 #bodytopmargin {
-	margin-top: 0.2%;
+	margin-top: 2%;
 }
 
 #testtext {
@@ -110,11 +107,14 @@ img {
 
 .mydiv {
 	float: left;
+    max-height: 500px;
 	width: -moz-max-content;
 	width: -webkit-max-content;
 }
 
 #mycontainer {
+    margin-top: 100px;
+    margin-left: 6%;
 	padding-left: 0%;
 	padding-right: 0%;
 }
