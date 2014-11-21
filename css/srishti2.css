@@ -112,6 +112,7 @@ img {
 .mydiv {
 	float: left;
 	width: -moz-max-content;
+	width: -webkit-max-content;
 }
 
 .mycontainer {
