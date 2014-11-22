@@ -72,8 +72,7 @@ img {
 
 #mynavi-1 {
 	height: 90px;
-	margin-top: 20px;
-
+	margin-top: 30px;
 	margin-bottom: 20px;
 }
 
@@ -87,6 +86,7 @@ img {
 
 #mynavi-4b {
 	margin-top: 2.5%;
+	margin-left: 2%;
 }
 
 #mybrandlogo1 {
@@ -95,6 +95,14 @@ img {
     margin-top: -45px;
     margin-left: 75px;
     margin-right: 25px;
+}
+
+#mybrandlogo2 {
+	height: 90px;
+	width: auto;
+	margin-top: -20px;
+	margin-left: 75px;
+	margin-right: 25px;
 }
 
 #bodytopmargin {
@@ -113,8 +121,21 @@ img {
 }
 
 #mycontainer {
-    margin-top: 100px;
+    margin-top: 130px;
     margin-left: 7%;
 	padding-left: 0%;
 	padding-right: 0%;
+}
+
+#copyrightcontainer {
+	max-height: 20px;
+}
+
+.socialicons {
+	height: 20px;
+	width: auto;
+}
+
+.navlinks {
+	margin-right: 40px;
 }
