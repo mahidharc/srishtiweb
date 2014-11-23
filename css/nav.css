@@ -1,0 +1,90 @@
+#bodytext {
+	position: static;
+	border: 1px solid #000;
+}
+
+.navdiv {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: #eeeeee;
+	z-index: 1;
+}
+
+#socialnav {
+	float: right;
+	margin-right: 4%;
+	margin-top: 2px;
+}
+
+.social {
+	height: 20px;
+	width: auto;
+}
+
+.cusnav {
+	position: relative;
+}
+
+#logo1 {
+	float: left;
+	margin-left: 4%;
+}
+
+#logo1img {
+	height: 100px;
+	width: auto;
+}
+
+#navlinks {
+	position: absolute;
+	top: 50%;
+	left: 14%;
+	height: 10em;
+	margin-top: 4.5em;
+	width: 60%;
+}
+
+#navlinks a {
+
+}
+
+.indienav {
+	display: table-cell;
+	width: 0.1%;
+	text-align: center;
+}
+
+#navlinks a:link {
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+#navlinks a:visited {
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+#navlinks a:active {
+	color: #000000;
+	text-decoration: none;
+}
+
+#navlinks a:hover {
+	color: #0000ff;
+	text-decoration: none;
+	font-weight: none;
+}
+
+#logo2 {
+	float: right;
+	margin-right: -10%;
+	margin-top: 5px;
+}
+
+#logo2img {
+	height: 100px;
+	width: auto;
+}
